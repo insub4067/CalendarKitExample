@@ -1,0 +1,15 @@
+{
+  "originHash" : "38e91504c73dbb23b37633551fb33c3cef189577df66ace79e3ec0634eddcb63",
+  "pins" : [
+    {
+      "identity" : "calendarkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/insub4067/CalendarKit.git",
+      "state" : {
+        "revision" : "1ac50a5607dc39a5634a369fef3b97135519e777",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 3
+}
